@@ -1,0 +1,23 @@
+#content {
+	width:960px;
+	margin:0 auto;
+	position: relative;
+}
+
+#comment{
+	background: #ddd;
+	border: 1px solid #555;
+	width: 400px;
+	position: absolute;
+	top: 150px;
+	left: 250px;
+	padding: 10px;
+	display:none;
+	z-index: 999;
+}
+
+#comment input[type="text"]{
+	width: 390px;
+	height: 40px;
+	margin-bottom: 10px;
+}
