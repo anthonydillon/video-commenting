@@ -6,10 +6,10 @@ The system is a simple HTML5 video that plays and when you click on the video it
 
 Known bugs
 -------------------
-* ** You cant click the menu items as there trigger the comment
-* ** Would like to add types of comments
+* You cant click the menu items as there trigger the comment
+* Would like to add types of comments
 
 Follow me for info on this and future projects
 -------------------
 Keep upto date with current project and drop me a message if you want to know anything else.
-* ** Twitter: @anthonydillon
+* **Twitter:** [@anthonydillon](http://twitter.com/#!/anthonydillon)
